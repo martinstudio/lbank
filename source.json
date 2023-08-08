@@ -1,0 +1,212 @@
+{
+  "nodes": [
+    {
+      "id": 0,
+      "name": "LBank Labs",
+      "category": 0,
+      "avatar": "",
+      "symbolSize": 30,
+      "x": -200,
+      "y": 100,
+      "value": 25.345
+    },
+    {
+      "id": 1,
+      "name": "Fund of Funds",
+      "category": 1,
+      "avatar": "",
+      "symbolSize": 40,
+      "x": 0,
+      "y": 0,
+      "value": 32.678
+    },
+    {
+      "id": 2,
+      "name": "Lemniscap",
+      "category": 2,
+      "avatar": "images/Lemniscap.png",
+      "symbolSize": [95, 19],
+      "x": 300,
+      "y": 150,
+      "value": 28.567
+    },
+    {
+      "id": 3,
+      "name": "Symbolic Capital",
+      "category": 2,
+      "avatar": "images/SymbolicCapita.png",
+      "symbolSize": [64, 30],
+      "x": 500,
+      "y": -50,
+      "value": 30.123
+    },
+    {
+      "id": 4,
+      "name": "IOSG Ventures",
+      "category": 2,
+      "avatar": "images/IOSGVentures.png",
+      "symbolSize": [66, 30],
+      "x": -400,
+      "y": -200,
+      "value": 26.789
+    },
+    {
+      "id": 5,
+      "name": "SevenX Capital",
+      "category": 2,
+      "avatar": "images/SevenXCapital.png",
+      "symbolSize": [86, 23],
+      "x": -100,
+      "y": 300,
+      "value": 29.456
+    },
+    {
+      "id": 6,
+      "name": "Blockchain Founders Fund",
+      "category": 2,
+      "avatar": "images/BlockchainFoundersFund.png",
+      "symbolSize": [81, 47],
+      "x": 400,
+      "y": 100,
+      "value": 31.567
+    },
+    {
+      "id": 7,
+      "name": "Sparkle Ventures",
+      "category": 2,
+      "avatar": "images/SparkleVentures.png",
+      "symbolSize": [88, 30],
+      "x": -600,
+      "y": 200,
+      "value": 33.234
+    },
+    {
+      "id": 8,
+      "name": "ArkStream Capital",
+      "category": 2,
+      "avatar": "images/ArkStreamCapital.png",
+      "symbolSize": [105, 30],
+      "x": 300,
+      "y": -300,
+      "value": 29.789
+    },
+    {
+      "id": 9,
+      "name": "collab+currency",
+      "category": 2,
+      "avatar": "images/collabcurrency.png",
+      "symbolSize": [214, 30],
+      "x": -500,
+      "y": -100,
+      "value": 27.456
+    },
+    {
+      "id": 10,
+      "name": "Meme Fund",
+      "category": 1,
+      "avatar": "",
+      "symbolSize": 28,
+      "x": 200,
+      "y": 400,
+      "value": 26.123
+    },
+    {
+      "id": 11,
+      "name": "Saitama",
+      "category": 3,
+      "avatar": "images/Saitama.png",
+      "symbolSize": [36, 32],
+      "x": -150,
+      "y": -400,
+      "value": 28.678
+    },
+    {
+      "id": 12,
+      "name": "Pepe2.0",
+      "category": 3,
+      "avatar": "images/Pepe2.0.png",
+      "symbolSize": [32, 32],
+      "x": 350,
+      "y": 350,
+      "value": 29.789
+    },
+    {
+      "id": 13,
+      "name": "LBankLabs Investment Fund",
+      "category": 1,
+      "avatar": "",
+      "symbolSize": 35,
+      "x": -300,
+      "y": 300,
+      "value": 31.234
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 1
+    },
+    {
+      "source": 1,
+      "target": 2
+    },
+    {
+      "source": 1,
+      "target": 3
+    },
+    {
+      "source": 1,
+      "target": 4
+    },
+    {
+      "source": 1,
+      "target": 5
+    },
+    {
+      "source": 1,
+      "target": 6
+    },
+    {
+      "source": 1,
+      "target": 7
+    },
+    {
+      "source": 1,
+      "target": 8
+    },
+    {
+      "source": 1,
+      "target": 9
+    },
+    {
+      "source": 0,
+      "target": 10
+    },
+    {
+      "source": 10,
+      "target": 11
+    },
+    {
+      "source": 10,
+      "target": 12
+    },
+    {
+      "source": 0,
+      "target": 13
+    }
+  ],
+  "categories": [
+    {
+      "name": "A"
+    },
+    {
+      "name": "B"
+    },
+    {
+      "name": "C"
+    },
+    {
+      "name": "D"
+    }
+  ]
+}
